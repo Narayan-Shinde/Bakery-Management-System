@@ -102,7 +102,7 @@ if (errorMsg != null && !errorMsg.isEmpty()) {
             <i class="fas fa-envelope me-3"></i>
             bakerypalace29@gmail.com
           </p>
-          <p><i class="fas fa-phone me-3"></i>+91 8806645901</p>
+          <p><i class="fas fa-phone me-3"></i>+91 9373421623</p>
          
         </div>
         <!-- Grid column -->
@@ -115,7 +115,7 @@ if (errorMsg != null && !errorMsg.isEmpty()) {
   <!-- Copyright -->
   <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
    Projects Made By:
-    <a class="text-reset fw-bold" href="">Sayali Patil & Santoshi Raut</a>
+    <a class="text-reset fw-bold" href="">Narayan Shinde</a>
   </div>
   <!-- Copyright -->
 </footer>
